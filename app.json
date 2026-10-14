@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Brote",
+    "name": "Brote-PAME",
     "slug": "brote-planificador",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -46,7 +46,10 @@
       "reactCompiler": true
     },
     "extra": {
-      "router": {}
-    }
+      "router": {},
+      "eas": {
+      }
+    },
+    "owner": "andresmoreira"
   }
 }
